@@ -9,10 +9,10 @@ Usage
 
 ```
 # Build (optional)
-docker build -t jtyr/web .
+docker build -t jtyr/tc_web .
 
 # Run the server
-docker run -d -p 8080:80 jtyr/web
+docker run -d -p 8080:80 jtyr/tc_web
 ```
 
 
